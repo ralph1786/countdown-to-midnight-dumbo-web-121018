@@ -3,7 +3,5 @@
 
 def countdown(int)
   x = 0
-  while x <
   
-end
 end
