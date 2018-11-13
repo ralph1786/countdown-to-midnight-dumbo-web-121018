@@ -4,7 +4,7 @@
 def countdown(int)
   x = 0
   while int > x 
-  int -=
+  int -= 1
   puts "#{int} SECONDS!"
 end
 end
