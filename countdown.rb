@@ -6,3 +6,4 @@ def countdown
   x -= 1 
   puts "#{x} SECONDS!"
 end
+end
