@@ -1,8 +1,8 @@
 #write your code here
 
 
-def countdown(10)
-  while x < 10
+def countdown(int)
+  while x < int
   x -= 1 
   puts "#{x} SECONDS!"
 end
