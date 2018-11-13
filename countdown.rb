@@ -1,4 +1,8 @@
 #write your code here
 
-def countdown
+x = 12
+def countdown(int)
+  while int < x 
+  int -= 1
+  puts "HAPPY NEW YEAR!"
 end
